@@ -1,4 +1,9 @@
 # Organisation der Zukunft: Warum wir mehr Wir-Kultur brauchen
+_Daniel Kling_
+
+Manuscript zur Projektarbeit des Lehrgangs "Agiles Projektmanagement mit SCRUM"
+
+
 ## Erwünschtes Ziel
 * Begründer des agilen Manifests hätten gemerkt, dass "die Art zu arbeiten nicht mehr zu den Anforderungen um sie herum passt"
 * Die Welt wird komplexer und erfordert von Unternehmen mehr Beweglichkeit und Flexibilität.
@@ -30,7 +35,7 @@
 
 ## Lösungsansätze
 
-### Neues Denken (10.3)
+### Neues Denken
 * neues Mindset sollte etabliert werden. 
 Übergangsteam sollte eingesetzt werden, um initialen Organisationsstrukturen, Prinzipien und Prozesse zu etablieren
 
@@ -54,18 +59,16 @@
 ### Räume und Formate schaffen
 * Begleitung, Betreuung und gemeinsames Lernen 
 * Kontakt und Austausch durch: 
-	* Peer-Learing
+	* Peer-Learning
 	* Bar-Camps
 	* geteilte Räume und Co-Working Spaces
-* Gemeinsames Lernen soll Gruppen "synchronisieren", Gruppen können gemeinsam voneinander lernen und nebenbei könne eine neue Sprache (WTF?) gelernt werden
-* Facilitatoren: Moderatoren und F. sollen Gruppen begleiten und helfen Metaperspektiven einnehmen zu können, damit das Gesamtprozess besser betrachtet werden kann (Aufgabengebiet von Scrum Master???)
-* "Co-Working-Spaces schaffen eine Lösung, "die der Arbeit auf sozialer und sturktureller Ebene wieder ienen Rahmen gibt, der sich positiv auf die Produktivität auswirkt" (s. Rief )
-* Co-Kultur durch Co-Working-Sapces -> Offenheit, Mut (Teil der Scrumwerte)
+* Gemeinsames Lernen soll Gruppen "synchronisieren", Gruppen können gemeinsam voneinander lernen und nebenbei könne eine neue Sprache gelernt werden
+* Facilitatoren: Moderatoren und F. sollen Gruppen begleiten und helfen Metaperspektiven einnehmen zu können, damit das Gesamtprozess besser betrachtet werden kann
+* "Co-Working-Spaces schaffen eine Lösung, "die der Arbeit auf sozialer und struktureller Ebene wieder einen Rahmen gibt, der sich positiv auf die Produktivität auswirkt" (s. Rief)
+* Co-Kultur durch Co-Working-Spaces -> Offenheit, Mut (Teil der Scrumwerte)
 
 #### Kritik
 * Leistung lässt bei Großraumbüros nach
-
-
 
 ### Kompetenzen aufbauen
 * Beziehungsfähigkeit einüben, wie auch Offenheit, Transparenz und Zugewandtheit
@@ -76,7 +79,7 @@
 
 ### Feedbackkultur
 * ehrliche und prompte Rückmeldungen nötig
-* Beziehungsgrundlage, in der "Ehrlichkeit bei den Rückmeldungen[...], ohne dass es zu perönlichen Verletzungen kommt", muss ermöglicht werden
+* Beziehungsgrundlage, in der "Ehrlichkeit bei den Rückmeldungen[...], ohne dass es zu persönlichen Verletzungen kommt", muss ermöglicht werden
 * im besten Fall klar, für alle verbindlicher Rahmen, täglich
 
 ## Fazit
@@ -84,11 +87,12 @@
 * Kollateralschäden entstehen, durch Kränkungen wegen Statusverschiebungen und Nicht-Zugehörigkeit
 * Durchführung erfordert Mut, Durchhaltevermögen und Fähigkeit zum Verlernen
 
-## Kritikpunkte
+# Kritikpunkte
 * Hierarchien oftmals natürlich gewachsen und bewährt
+* extrinsische Anreize bewährt und zuverlässig
+* Ansatz durch Homo Oeconomicus Bashing, welches aber nur in wenigen Sonderfällen gerechtfertigt ist
 
-# Eigene Meinung
-1. Erfindungen der letzten 20 Jahre vs. davor
-2. Produktiv durch Wir und Agilität
-3. extrinsische Anreize bewährt und zuverlässig
-4. Ansatz durch Homo Oeconomicus Bashing, aber doch zu 90 %
+# Literatur
+- Schwaber & Sutherland: The Scrum Guide. The Definitive Guide to Scrum: The Rules of the Game
+- Wirdmann: SCRUM mit User Stories
+- Brühl: Organisation der Zukunft: Warum wir mehr Wir-Kultur brauchen
